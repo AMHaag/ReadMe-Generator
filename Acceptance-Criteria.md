@@ -1,13 +1,13 @@
 # Acceptance Criteria
 
 ### Prompt User for information
-- Description
-- Installation Useage
-- License
-- Contributing
-- Tests
-- Questions
-- Title (top of page)
+- ~~Description~~
+- ~~Installation Usage~~
+- ~~License~~
+- ~~Contributing~~
+- ~~Tests~~
+- ~~Questions~~
+- ~~Title (top of page)~~
 
 ### Create Sections
 - information is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests
@@ -37,17 +37,14 @@ This Challenge is graded based on the following criteria:
 
 ## Walkthrough Video: 27%
 - A walkthrough video that demonstrates the functionality of the README generator must be submitted and a link to the video should be included in your README file.
-
 - The walkthrough video must demonstrate how a user would invoke the application from the command line.
-
 - The walkthrough video must demonstrate how a user would enter responses to all of the prompts in the application.
-
 - The walkthrough video must demonstrate a generated README that matches the user input and has a functioning table of contents.
 
 ## Technical Acceptance Criteria: 40%
 Satisfies all of the above acceptance criteria plus the following:
 
-- Uses the Inquirer package (Links to an external site.).
+- Uses the inquirer package (Links to an external site.).
 
 ## Repository Quality: 13%
 - Repository has a unique name.
